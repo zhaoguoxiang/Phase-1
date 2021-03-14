@@ -24,3 +24,6 @@ print(name)
 print(val)
 gammadata = pd.DataFrame.from_dict(gammadict)
 gammadata.to_csv('../ai/substituted_benzene_para_gamma.csv')
+
+
+#this is a test
